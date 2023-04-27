@@ -1,0 +1,14 @@
+// Font Awesome
+// --------------------------------------------------------------------------
+@use '~@fortawesome/fontawesome-free/scss/brands';
+@use '~@fortawesome/fontawesome-free/scss/regular';
+@use '~@fortawesome/fontawesome-free/scss/solid';
+@use '~@fortawesome/fontawesome-free/scss/fontawesome';
+
+// Bootstrap
+// --------------------------------------------------------------------------
+@use "~bootstrap/scss/bootstrap";
+
+// Base
+// --------------------------------------------------------------------------
+@use "base/reset";
